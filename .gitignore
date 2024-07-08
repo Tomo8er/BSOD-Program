@@ -1,0 +1,10 @@
+# .gitignore
+
+*.exe
+.git/
+.vs/
+.vscode/
+*.json
+*.obj
+*.com
+*.dll
