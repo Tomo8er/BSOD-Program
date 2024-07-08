@@ -1,0 +1,3 @@
+# wininit.exeでブルスク
+
+wininit.exe
