@@ -15,3 +15,5 @@ We recommend that you also read the readme file for each risk level.
 **BSOD基本上發生在系統出現重大異常時。不要在真實系統中使用它。**
 **此外，由此造成的任何損壞均由您負責。**
 我們也建議閱讀每個風險等級的自述文件。
+
+<img src="https://imgur.com/a/E3QAIUf" alt="BSOD画像">
