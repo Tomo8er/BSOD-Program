@@ -1,10 +1,15 @@
-#.gitignore
+# .gitignore
 
+# Ignore compiled binaries
 *.exe
+*.com
+*.dll
+
+# Ignore Visual Studio files
 .git/
 .vs/
 .vscode/
+
+# Ignore JSON files and object files
 *.json
 *.obj
-*.com
-*.dll
